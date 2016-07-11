@@ -1,0 +1,14 @@
+<all_maps>
+  <map>
+    <input>!e1</input>
+    <output>example1</output>
+  </map>
+  <map>
+    <input>!e2</input>
+    <output>example2</output>
+  </map>
+  <map>
+    <input>!e3</input>
+    <output>example3</output>
+  </map>
+</all_maps>
