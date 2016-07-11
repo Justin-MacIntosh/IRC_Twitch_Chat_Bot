@@ -11,3 +11,6 @@ With all of this in place, you're almost ready to run. Check your settings, and 
 maps.xml contains the one-to-one chat respnses the bot is capable of. Check that file to see what it can do. At the moment the bot responds to "!e1", "!e2", and "!e3". Also the bot has two other functions. "!help" responds with a call for help for whoever wrote it, and "!count" either increments a number count if no number is given after, or sets the count to whatever number is given (ex. "!count", "!count 3").
 
 By editing maps.xml, you can make commands of your very own. Macros like Kappa and PogChamp are available as responses by typing their full name. When the bot posts them the image will show. Have fun!
+
+
+This bot is based off of the bare bones bot shown here: https://www.sevadus.tv/forums/index.php?/topic/774-simple-python-irc-bot/.
